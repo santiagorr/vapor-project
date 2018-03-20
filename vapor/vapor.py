@@ -25,7 +25,7 @@ def sumit(a, b):
     @input b : integer
     @output : integer
     """
-    return a + b
+    return a - b
 
 
 @app.route("/sumit")
